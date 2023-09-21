@@ -1,0 +1,6 @@
+{
+  "originBucket": "source bucket",
+  "filePath": "source object key",
+  "targetBucket": "dest bucket",
+  "targetFilePath": "dest prefix path"
+}
